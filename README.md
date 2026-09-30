@@ -5,49 +5,7 @@
 Humanizer makes AI-written text sound like a person wrote it, without changing what it says. It is built on Wikipedia's [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), the guide Wikipedia editors use to catch AI-generated text, and it works in Claude Code, Codex, and any other agent that supports skills.
 
 **Before:**
-> Out of all the regional retellings that have popped up over the centuries, two really stand out: Sage Valmiki’s foundational Sanskrit Ramayana and the 12th-century Tamil masterpiece, the Iramavataram, written by Kamban.
-
-Kamban didn’t just lazily translate Valmiki’s verses into Tamil. He practically rebuilt the story from the ground up to make it resonate with the deep cultural roots and philosophical mindset of his audience. And honestly, the absolute most fascinating part of this massive rewrite is what he did to the villain, Ravana. If you put Valmiki’s Ravana next to Kamban’s Ravanan, they barely even look like the same guy. One is a nightmare of pure ego and power, while the other is this grand, incredibly tragic king who brings about his own ruin.
-The Making of a Villain vs. The Fall of a Hero
-
-Let’s look at Valmiki’s original text first. Right off the bat, he introduces Ravana as an absolute terror to the three worlds. Sure, Valmiki admits the guy is brilliant—he has mastered the Vedas, performed years of grueling penance, and practically hacked the cosmic system to extract boons of invincibility from Brahma. But none of that makes him a decent person. In the Sanskrit epic, Ravana is the ultimate, unapologetic symbol of adharma.
-
-His whole personality revolves around a massive, unchecked ego. Because he thinks almost nobody can touch him, he just takes whatever he wants. He oppresses the gods, crashes religious sacrifices, and treats the entire universe like it belongs to him. There isn't much inner conflict here; he's a brutal, hard-hearted warlord, plain and simple. From a narrative standpoint, the story fundamentally needs a pitch-black villain so Rama’s righteousness has something to shine against, and Ravana plays that part perfectly.
-
-Then you flip over to Kamban, and the entire atmosphere changes. Writing in a classical Tamil literary tradition that loved to hype up larger-than-life, heroic kings (the Puram poetry tradition), Kamban just couldn’t leave the ruler of Lanka as a one-dimensional bad guy. So, he turns his Ravanan into a figure of breathtaking majesty. He’s a brilliant patron of the arts, a wildly talented musician who plays the veena, and a sovereign whose people genuinely revere him.
-
-He has so much going for him, and that’s exactly what makes him such a tragedy. Kamban sets up Ravana’s downfall a lot like a classic Greek tragedy. He’s a man with limitless potential and real virtues who lets one single, fatal weakness completely tear his life apart. You actually feel a real pang of regret when Kamban’s Ravana falls, mourning the great and noble king he could have been if he had just kept his head on straight.
-Revenge versus Blind Obsession
-
-This huge gap in their personalities becomes painfully obvious when you look at why Ravana actually decides to kidnap Sita in the first place.
-
-In Valmiki’s version, the abduction is basically a calculated political strike. It kicks off when Ravana’s sister, Surpanakha, gets her nose cut off by Lakshmana in the forest. When the news makes it back to Lanka, Ravana is livid. To him, this is a direct, unforgivable attack on his empire's pride. He has to hit back to show he isn't someone you can just mess with. While he’s definitely intrigued when he hears about Sita's beauty, his main drive is revenge. It’s a cold, aggressive power move meant to humiliate Rama and take a shiny trophy.
-
-Kamban spins this completely differently. In the Tamil epic, when Surpanakha runs back crying and starts describing Sita to her brother, Ravana doesn’t just get angry. He falls into this wildly obsessive, all-consuming state of lust. And the craziest part? He hasn’t even laid eyes on her yet. Kamban dedicates these incredibly intense, soaring verses just to describe how Ravana essentially loses his grip on reality over the mere mental image of Sita.
-
-His obsession gets so loud that it drowns out all logic, good sense, and every desperate warning from his smartest ministers. Instead of a calculating warlord plotting revenge, Kamban gives us a man entirely enslaved by his own desires. Ravana knows deep down that he is inviting total disaster by crossing Rama, but he literally cannot stop himself. It makes him look less like a cold-blooded tyrant and more like a helpless victim of his own mind.
-The Kidnapping: A Clash of Cultural Values
-
-Then we get to the kidnapping scene itself in the Dandaka forest, which is arguably the most famous difference between the two texts.
-
-Valmiki doesn’t sugarcoat anything. He describes a violent, highly physical assault where Ravana grabs Sita by her hair and thighs, physically hauling her into his flying chariot. Valmiki does this intentionally to show exactly how low Ravana is willing to sink. It’s a scene meant to disgust the reader, proving the demon king has zero respect for physical boundaries, basic morality, or the sanctity of someone else's marriage.
-
-But Kamban ran into a major cultural roadblock here. In ancient Tamil culture, the concept of karpu—the absolute spiritual and physical purity of a chaste woman—was arguably the highest social value you could have. If Kamban had written that another man violently grabbed Sita, it would have deeply horrified his local audience and tainted the heroine's perception. Plus, he wanted to maintain that lingering sense of royal dignity in Ravana’s character.
-
-His solution is pure narrative genius. In the Iramavataram, Ravana flat-out refuses to lay a finger on her. Instead, using his immense magical strength, he digs deep into the ground beneath her hermitage. He lifts the entire massive chunk of earth—with the hut and Sita sitting safely inside it—into the sky, and flies the whole structure back to Lanka. It’s an amazing workaround. It perfectly protects Sita’s physical purity, while also showing that even in the middle of committing the worst crime of his life, Ravana still strictly adheres to a twisted moral code of not touching a woman without her consent.
-The Final Duel and Spiritual Surrender
-
-This deep divergence carries right through to the bitter end of the war in Lanka.
-
-Valmiki writes the final showdown between Rama and Ravana as a purely martial, physical clash. It’s a brutal, exhausting, highly technical fight between two heavyweights slinging devastating divine weapons at each other. When Rama finally brings Ravana down by piercing his chest with the Brahmastra, it’s a straightforward win for the good guys. The tyrant is dead, cosmic order is finally restored, and the world can breathe again. Ravana dies exactly as he lived—as a stubborn, unyielding warrior fighting for dominance.
-
-Kamban, however, turns the climax into something far more profound. In his epic, the final battle isn't just about swords and arrows; it’s a brutal spiritual awakening. Throughout the poem, Kamban goes out of his way to make sure we know Rama isn't just a righteous human prince, but the supreme, absolute reality of the universe.
-
-As Ravana takes a beating on the battlefield, the physical destruction of his body mirrors the stripping away of his ego, pride, and ignorance. Right in his final moments, the heavy illusion he’s been living under shatters. As the fatal arrow strikes, he looks at Rama and finally gets it. He realizes the man who just defeated him is the exact divine truth he had been searching for through all his years of ascetic practices. Kamban’s Ravana doesn’t just die a defeated bad guy; he dies a liberated soul. He achieves realization at the exact moment of his death, making the end of the war feel less like a triumphant victory and more like a heavy, spiritual release.
-
-Putting these two epics side by side really shows how the exact same plot can explore completely different sides of human nature. Valmiki’s Ravana is the kind of clear-cut villain a society needs to draw a hard line between right and wrong. He's a walking warning sign of what happens when you have unlimited power but zero ethics to back it up.
-
-But Kamban leans heavily into the messy, complicated reality of being human. He gives us an antagonist who makes us feel anger, awe, and pity all at once. By making Ravana so cultured, so deeply flawed, and ultimately capable of enlightenment, Kamban reminds us that the line between a great hero and a tragic villain is often just a handful of bad choices. To really grasp the whole picture of the Ramayana, you need both of them. Valmiki shows us how to fight the darkness, while Kamban forces us to actually understand it.
+> 
 
 **After:**
 > Shared drafts are out today. For months our own team passed around files named final_v7.docx, so we built a way for two people to edit the same doc at once, with each person's changes showing up live for the other. Comments stay pinned to the sentence they're about, even when the text around them changes. It's free on every plan.
